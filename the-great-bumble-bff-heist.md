@@ -39,7 +39,7 @@ _(swearing)_
 
 25 minutes? That's tighter than my corset at the renaissance fair.
 
-ROSIE
+### ROSIE
 _(slyly)_
 
 I've got a few Tim Burton-inspired tricks up my sleeve to get us through.
@@ -63,7 +63,7 @@ Take a left at the next corridor, then a right.
 
 _They follow her directions, avoiding security guards and navigating the labyrinth of the factory._
 
-ROSIE
+### ROSIE
 _(disguising her voice)_
 
 Hey, you! I heard someone trying to steal the Cheez-it recipe. You should go check it out!
