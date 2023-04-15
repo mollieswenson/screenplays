@@ -67,8 +67,8 @@ _They follow her directions, avoiding security guards and navigating the labyrin
 _(disguising her voice)_
 
 Hey, you! I heard someone trying to steal the Cheez-it recipe. You should go check it out!
-_
-The security guards rush off in the wrong direction._
+
+_The security guards rush off in the wrong direction._
 
 ### JESSIE
 Good thinking, Rosie.
